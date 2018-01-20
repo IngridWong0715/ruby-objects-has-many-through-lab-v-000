@@ -7,5 +7,6 @@ class genre
 
   def add_song(song)
     @songs << song
-  
+  end
+
 end
