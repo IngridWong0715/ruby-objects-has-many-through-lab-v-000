@@ -1,4 +1,9 @@
-class Appointments
+class Appointment
+
+  def initialize(date, doctor)
+    @date = date
+    @doctor
+  end
 
 
 end
